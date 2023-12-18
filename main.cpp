@@ -9,6 +9,9 @@ int main()
 	cout << "let's try new concepts";
 	cout << "Learning git is fun";
 	cout << sum(2, 4, 6);
+
+	cout << "white friday sale\n";
+	cout << "buy one for 100$ buy 2 for 300$\n";
 }
 
 int sum(int a, int b, int c)
